@@ -10,16 +10,27 @@ Perfect for traders, developers, and anyone who wants live crypto prices visible
 ✨ Features
 
 ✔ Live Binance Price Feed (auto refresh)
+
 ✔ Three-symbol rotating slide transitions
+
 ✔ Smooth animated sliding UI
+
 ✔ Customizable symbols & decimal places
+
 ✔ Font size & background opacity controls
+
 ✔ Always on top (even above taskbar)
+
 ✔ Draggable + resizable frameless design
+
 ✔ Startup option for Windows
+
 ✔ Local icon caching for fast load
+
 ✔ Right-click settings menu
+
 ✔ No console window (clean EXE)
+
 ✔ Lightweight & low-CPU usage
 
 🖼️ Screenshots
