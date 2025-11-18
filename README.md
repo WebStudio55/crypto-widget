@@ -37,7 +37,9 @@ Perfect for traders, developers, and anyone who wants live crypto prices visible
 
 <img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-btc.png" alt="Crypto Widget" />
 <img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-eth.png" alt="Crypto Widget" />
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-sol.png" alt="Crypto Widget" />
 <img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-xrp.png" alt="Crypto Widget" />
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-settings.png" alt="Crypto Widget" />
 <img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-dot.png" alt="Crypto Widget" />
 
 📦 Installation
