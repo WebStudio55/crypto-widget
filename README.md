@@ -47,7 +47,7 @@ Option 1 — Download EXE (recommended)
 
 Download the latest release from:
 
-👉 Releases → crypto-widget.exe
+👉 Releases → <a href="https://github.com/WebStudio55/crypto-widget/releases/tag/CryptoWidget">crypto-widget.exe</a>
 
 No installation needed. Just run the file.
 
