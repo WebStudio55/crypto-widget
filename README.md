@@ -34,7 +34,7 @@ Perfect for traders, developers, and anyone who wants live crypto prices visible
 ✔ Lightweight & low-CPU usage
 
 🖼️ Screenshots
-
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget.py" />
 
 📦 Installation
 Option 1 — Download EXE (recommended)
