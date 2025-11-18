@@ -34,7 +34,10 @@ Perfect for traders, developers, and anyone who wants live crypto prices visible
 ✔ Lightweight & low-CPU usage
 
 🖼️ Screenshots
-<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget.py" />
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-btc.png" alt="Crypto Widget" />
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-eth.png" alt="Crypto Widget" />
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-xrp.png" alt="Crypto Widget" />
+<img src="https://github.com/WebStudio55/crypto-widget/blob/main/crypto-widget-dot.png" alt="Crypto Widget" />
 
 📦 Installation
 Option 1 — Download EXE (recommended)
