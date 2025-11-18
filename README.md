@@ -137,9 +137,13 @@ Feel free to use, modify, and distribute.
 ⭐ Support the Project
 
 If you find this useful:
+
 Support Me with USDT
+
 Network: TRX Tron(TRC20)
+
 Address: TDVAN6yCrzV4vj7rEMGJoYH4nCsCtgSy6g
+
 <img src="https://github.com/WebStudio55/crypto-widget/blob/main/trc-20-qr.png" />
 
 ⭐ Star the repo
