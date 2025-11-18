@@ -104,10 +104,15 @@ The EXE will appear in:
 /dist/crypto-widget.exe
 
 📁 Project Structure
+
 ├── crypto-widget.py        # Main source code
+
 ├── cw.ico                  # Application icon
+
 ├── crypto_widget_settings.json  # Auto-created settings file
+
 ├── /screenshots/           # Images for README
+
 └── /dist/                  # Built application
 
 🌐 API
@@ -119,7 +124,7 @@ Only public endpoints are used — no API key required.
 
 🧩 Technologies Used
 
-Python 3.12
+Python 3.13
 
 PyQt6
 
